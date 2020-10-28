@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ovvesley/ovvesley/main/image-cut.png" alt="imagem do perfil" />
+<img src="https://raw.githubusercontent.com/ovvesley/ovvesley/main/image-cut-gh.png" alt="imagem do perfil" />
 
 ---
 
