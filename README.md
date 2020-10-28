@@ -27,7 +27,7 @@ Baiano que mora no Rio de Janeiro desde garoto, hoje com 18 anos estudante do [C
 ![Princpais projetos](projetos.gif)
 
 Veja mais projetos no meu blog:
-🌍[ovvesley/projetos](ovvesley.github.io/projetos)
+🌍[ovvesley/projetos](https://ovvesley.github.io/projetos)
 
 ---
 
