@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/ovvesley/ovvesley/main/image-cut-gh.png" alt="imagem do perfil" />
+<img src="https://raw.githubusercontent.com/ovvesley/ovvesley/main/image.png" alt="imagem do perfil" />
 
 ---
 
@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+*art by @yasminsilvalibano*
