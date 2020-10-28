@@ -56,4 +56,8 @@ Here are some ideas to get you started:
 
 ---
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)]()
+<br/>
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)]()
+
 *Ilustração do banner feito por @yasminsilvalibano*
