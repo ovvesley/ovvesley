@@ -8,7 +8,7 @@
 
 
 
-<p>Eu sou o Wesley — estudante do técnico em informática no [CEFET-RJ](http://eic.cefet-rj.br/). Adoro as ciências, programação e a comunidade open source.</p>
+Eu sou o Wesley — estudante do técnico em informática no [CEFET-RJ](http://eic.cefet-rj.br/). Adoro as ciências, programação e a comunidade open source.
 
 
 ![Ilustração do README](image.png)
