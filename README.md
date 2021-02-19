@@ -18,7 +18,7 @@ Eu sou o Wesley — estudante do técnico em informática no [CEFET-RJ](http://e
 
 
 ### 🦆Sobre mim:
-Baiano que mora no Rio de Janeiro desde garoto, hoje com 18 anos estudante do [CEFET-RJ](http://eic.cefet-rj.br/). Realizei cursos de especialização em desenvolvimento web, server-side e mobile; estagiei como programador full stack na [Vitaljob Software](https://www.vitaljob.com.br/); realizei Projeto de Iniciação Científica (PIBIC) no desenvolvimento de uma linguagem em Python ([Pattern Language](https://github.com/diogosmendonca/PatternLanguage)) ; entusiasta nas ciências naturais  e em bioinformática; ganhei destaque municipal no Google Startup in School 2019; além de outros projetos que criei e contribui. 
+Baiano que mora no Rio de Janeiro desde garoto, hoje com 19 anos estudante do [CEFET-RJ](http://eic.cefet-rj.br/). Realizei cursos de especialização em desenvolvimento web, server-side e mobile; estagiei como programador full stack na [Vitaljob Software](https://www.vitaljob.com.br/); realizei Projeto de Iniciação Científica (PIBIC) no desenvolvimento de uma linguagem em Python ([Pattern Language](https://github.com/diogosmendonca/PatternLanguage)) ; entusiasta nas ciências naturais  e em bioinformática; ganhei destaque municipal no Google Startup in School 2019; além de outros projetos que criei e contribui. 
 
 ---
 
