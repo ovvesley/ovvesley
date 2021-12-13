@@ -8,7 +8,7 @@
 
 
 
-Eu sou o Wesley — Técnico em informática pelo [CEFET-RJ](http://eic.cefet-rj.br/), Programador na Concilie Online e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). Adoro as ciências, programação e a comunidade open source.
+Eu sou o Wesley — Técnico em informática pelo [CEFET-RJ](http://eic.cefet-rj.br/), Programador na Crawly e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). Adoro as ciências, programação e a comunidade open source.
 
 
 ![Ilustração do README](image.png)
