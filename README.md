@@ -22,12 +22,7 @@ Baiano que mora no Rio de Janeiro desde garoto, hoje com 19 anos Técnico pelo [
 
 ---
 
-### 💻Projetos:
-
-![Princpais projetos](projetos.gif)
-
-Veja mais projetos no meu blog:
-🌍[ovvesley/projetos](https://ovvesley.github.io/projetos)
+🌍[ovvesley/projetos](https://github.com/ovvesley?tab=repositories)
 
 ---
 
