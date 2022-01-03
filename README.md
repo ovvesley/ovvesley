@@ -18,7 +18,7 @@ Eu sou o Wesley — Técnico em informática pelo [CEFET-RJ](http://eic.cefet-rj
 
 
 ### 🦆Sobre mim:
-Baiano que mora no Rio de Janeiro desde garoto, hoje com 19 anos Técnico pelo [CEFET-RJ](http://eic.cefet-rj.br/), Programador na Concilie Online e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). Realizei cursos de especialização em desenvolvimento web, server-side e mobile; estagiei como Desenvolvedor Web na [Vitaljob Software](https://www.vitaljob.com.br/); realizei Projeto de Iniciação Científica (PIBIC) no desenvolvimento de uma linguagem em Python ([Pattern Language](https://github.com/diogosmendonca/PatternLanguage)); apaixonado pelas ciências e engenharia de software; ganhei destaque municipal no Google Startup in School 2019; além de outros projetos que criei e contribui. 
+Baiano que mora no Rio de Janeiro desde garoto, hoje com 20 anos Técnico pelo [CEFET-RJ](http://eic.cefet-rj.br/), Desenvolvedor de Software na Crawly e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). 
 
 Confira minha lista de repositórios no link abaixo:
 🌍[ovvesley/repositorios](https://github.com/ovvesley?tab=repositories)
