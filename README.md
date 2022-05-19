@@ -18,7 +18,7 @@ Eu sou o Wesley — Técnico em informática pelo [CEFET-RJ](http://eic.cefet-rj
 
 
 ### 🦆Sobre mim:
-Baiano que mora no Rio de Janeiro desde garoto, hoje com 20 anos Técnico pelo [CEFET-RJ](http://eic.cefet-rj.br/), Desenvolvedor de Software na Crawly e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). 
+Baiano que mora no Rio de Janeiro desde garoto, hoje com 20 anos Técnico pelo [CEFET-RJ](http://eic.cefet-rj.br/), Software Enginner na NerdMonster e Estudante de Sistemas de Informação na [UFF](http://www.ic.uff.br/index.php/pt/informacoes-gerais-sistemas-de-informacao). 
 
 Confira minha lista de repositórios no link abaixo:
 🌍[ovvesley/repositorios](https://github.com/ovvesley?tab=repositories)
