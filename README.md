@@ -2,7 +2,7 @@
 ## Oi.<img src="https://raw.githubusercontent.com/ovvesley/ovvesley/main/hi.gif" width="25">
 
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ovvesley@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:me@ovvesley.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ovvesley/)
 [<img src="https://img.shields.io/github/followers/ovvesley?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ovvesley) 
 
