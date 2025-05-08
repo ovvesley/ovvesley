@@ -7,7 +7,7 @@
 [<img src="https://img.shields.io/github/followers/ovvesley?label=follow&style=social" height="22" title="Follow me" />](https://github.com/ovvesley) 
 
 
-I’m Wesley — a Bachelor’s in Information Systems, Software Engineer (currently Tech Lead) at NerdMonster, and a Researcher in Containerization, Cloud Computing, and High-Performance Computing at UFF.
+Tech professional with +7 years of experience in startups and research centers, specialized in cloud-native migrations with Kubernetes, large-scale data pipelines, and deployment of ML workflows in HPC environments. A career built on bridging Academia and Industry, materializing the State of the Art in computing into practical solutions.
 
 
 
